@@ -1,0 +1,30 @@
+{
+  "name": "ecpay-nodejs-offical",
+  "version": "1.0.0",
+  "description": "綠界全方位金流串接用SDK",
+  "main": "./lib/ecpay_payment.js",
+  "dependencies": {
+    "elementtree": "^0.1.7",
+    "iconv-lite": "^0.4.18",
+    "buffer": "^5.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "package"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpwei/ecpay-nodejs-offical.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mpwei/ecpay-nodejs-offical/issues"
+  },
+  "author": "",
+  "homepage": "https://github.com/mpwei/ecpay-nodejs-offical#readme",
+  "license": "ISC"
+}
